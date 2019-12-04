@@ -1,0 +1,5 @@
+.pprf-left-col{
+	width: calc(100% - 151px);	
+}
+
+#pprf-form ul li:before{display:none !important};
